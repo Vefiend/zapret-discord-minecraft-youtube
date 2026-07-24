@@ -1,2 +1,5 @@
-# zapret-discord-minecraft-youtube
-bat file for minecraft &amp; discord &amp; youtube
+<div align="center">
+> [!CAUTION]
+>
+> ### ВНИМАНИЕ
+> Я не даю гарантию что этот bat файл будет работать.
