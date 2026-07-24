@@ -9,7 +9,7 @@
 > Но как минимум он работает у всех тех кому я его давал.
 
 > [!IMPORTANT]
-> Что бы использовать этот файл просто скачайте его в разделе Releases(https://github.com/Vefiend/zapret-discord-minecraft-youtube/releases) и закиньте в свой запрет.
+> Что бы использовать этот файл просто скачайте его в разделе [Releases](https://github.com/Vefiend/zapret-discord-minecraft-youtube/releases) и закиньте в свой запрет.
 > 
 > В сервисе ничего настраивать не нужно, единственное просто все что есть в сервисе нужно выключить.
 >
